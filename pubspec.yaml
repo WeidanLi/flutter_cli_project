@@ -1,0 +1,36 @@
+name: flutter_cli_project
+description: Flutter脚手架项目.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  equatable: ^1.1.1
+  shared_preferences: ^0.5.7
+  fluttertoast: ^3.1.0
+  dio: ^2.0.15
+  protobuf: 1.0.1
+  flutter_bloc: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/imgs/
+    - assets/lang/lang_zh-CN.json
+    - assets/lang/lang_en-US.json
+    - assets/profile-config.json
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Medium.ttf
+          style: normal
+        - asset: assets/fonts/Quicksand_Bold.otf
+          weight: 700

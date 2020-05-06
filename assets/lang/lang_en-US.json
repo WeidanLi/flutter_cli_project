@@ -1,0 +1,29 @@
+{
+  "global.title": "Flutter Cli Project",
+  "global.press.back.again": "Press again to cancel the APP.",
+  "login.title": "Flutter Cli Project",
+  "login.input.title": "UserName",
+  "login.input.notempty.title": "please input UserName",
+  "login.input.password": "Password",
+  "login.input.notempty.password": "please input Password",
+  "login.btn.login": "Login",
+  "common.drawer.theme.setting": "Theme Setting",
+  "common.drawer.dashboard": "Dashboard",
+  "common.drawer.operator.log": "Operator Log",
+  "common.drawer.pda.setting": "Setting",
+  "common.drawer.nothing": "Sorry, it can not service now.",
+  "common.drawer.lang.setting": "Language Switch",
+
+
+  "dashboard.deliver.bill.title": "Deliver Task",
+  "dashboard.deliver.bill.pick": "Pick Task",
+  "dashboard.deliver.bill.deliver": "Driving Task",
+  "dashboard.deliver.bill.audit": "Audit Task",
+  "dashboard.check.bill.title": "Check Bill Task",
+  "dashboard.check.bill.auditing": "Check Task",
+
+  "index.deliver.bill.pick.pageTitle": "My Deliver Bill",
+  "index.deliver.bill.loading.pageTitle": "Loading Task",
+  "index.deliver.bill.audit.pageTitle": "Deliver Bill Audit Task",
+  "index.check.bill.check.pageTitle": "My Check Bill"
+}

@@ -1,0 +1,28 @@
+{
+  "global.title": "Flutter脚手架模板",
+  "global.press.back.again": "继续点击返回退出应用",
+  "login.title": "Flutter脚手架模板",
+  "login.input.title": "用户名",
+  "login.input.notempty.title": "请输入用户名",
+  "login.input.password": "密码",
+  "login.input.notempty.password": "请输入密码",
+  "login.btn.login": "登录",
+  "common.drawer.theme.setting": "主题设置",
+  "common.drawer.dashboard": "面板",
+  "common.drawer.operator.log": "操作记录",
+  "common.drawer.pda.setting": "设置",
+  "common.drawer.nothing": "功能还在开发中",
+  "common.drawer.lang.setting": "语言切换",
+
+  "dashboard.deliver.bill.title": "发货单作业",
+  "dashboard.deliver.bill.pick": "拣货作业",
+  "dashboard.deliver.bill.deliver": "发车作业",
+  "dashboard.deliver.bill.audit": "审核作业",
+  "dashboard.check.bill.title": "盘点作业",
+  "dashboard.check.bill.auditing": "盲盘作业",
+
+  "index.deliver.bill.pick.pageTitle": "我的拣货单",
+  "index.deliver.bill.loading.pageTitle": "发车单页",
+  "index.deliver.bill.audit.pageTitle": "发货单审核",
+  "index.check.bill.check.pageTitle": "盘点单--盲盘"
+}

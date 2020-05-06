@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "com.jingchuan.imopei.dto.warehousingpda.UserAuthenticateDto";
+option java_outer_classname = "UserAuthenticateDtoPB";
+
+message UserAuthenticateReqDto {
+
+    string userName = 1;
+    string password = 2;
+
+}
+
+message UserAuthenticateRespDto {
+
+    string token = 1;
+    repeated string resourceCodes = 2;
+
+}
+
